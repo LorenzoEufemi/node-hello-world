@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "even-odd.js",
+  "scripts": {
+    "start": "node even-odd.js",
+    "dev": "node --watch even-odd.js"
+  },
+  "author": "Lorenzo Eufemi",
+  "license": "ISC",
+  "description": ""
+}
